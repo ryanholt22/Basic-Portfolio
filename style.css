@@ -1,0 +1,45 @@
+* {
+    max-width: 719px;
+}
+
+body {
+    background-image: url(http://www.zingerbug.com/Backgrounds/background_images/blue_sand_stone.jpg)
+}
+
+h1 {
+    height: 40px;
+    width: 140px;
+    background-color: cornflowerblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    position: static;
+    margin-left: 50%;
+    transform: translateY(40px);
+}
+
+nav {
+    transform: translateX(115%)
+}
+
+.Container {
+    background-color: white;
+    height: 1000px;
+    width: 960px;
+    margin-left: 50%;
+}
+
+h2 {
+    height: 60px;
+    transform: translateY(50%);
+    margin-left: 20px;
+    color: cornflowerblue;
+}
+
+.image {
+    float: left;
+}
+
+.me {
+    font-size: 26px;
+    transform: translateY(-50px);
+}
