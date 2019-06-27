@@ -1,5 +1,5 @@
 * {
-    max-width: 719px;
+    max-width: 673px;
 }
 
 body {
@@ -18,11 +18,11 @@ h1 {
 }
 
 nav {
-    transform: translateX(115%)
+    transform: translateX(130%)
 }
 
 .Container {
-    background-color: white;
+    background-color: lightgrey;
     height: 1000px;
     width: 960px;
     margin-left: 50%;
