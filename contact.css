@@ -1,17 +1,14 @@
 body {
-    background-image: url(https://scontent.ffcm1-2.fna.fbcdn.net/v/t1.0-9/65415923_2407947435950824_3966755133714333696_n.jpg?_nc_cat=101&_nc_oc=AQnFmFq1yNx1smQobkYL5eIhjp6vcsB-mKDpdjRMMaAKdKQCQr3V4uHGxjthpsarZtU&_nc_ht=scontent.ffcm1-2.fna&oh=e19b3538dec53a7f3f332a54ad822b0c&oe=5DBF1BF5);
-    background-size: 30%;
-    background-repeat: repeat;
-    background-position-x: -100px;
-    background-color: darkgray;
+    background-image: url(http://www.zingerbug.com/Backgrounds/background_images/blue_sand_stone.jpg);
 }
 
 h1 {
     font-family: 'Dosis', sans-serif;
-    background-color: cornflowerblue;
+    background-color: #4aaaa5;
     width: 240px;
     margin-left: 11.9%;
-    transform: translateY(50px);
+    transform: translateY(30px);
+    color: white;
 }
 
 nav {
@@ -20,10 +17,10 @@ nav {
 
 .container {
     font-family: 'Dosis', sans-serif;
-    background-color: slategrey;
+    background-color: lightgray;
     width: 960px;
     margin-left: 180px;
-    transform: translateY(370px)
+    height: 1500px;
 }
 
 a:hover {
@@ -32,4 +29,29 @@ a:hover {
 
 a:active {
     color: red;
+}
+
+input {
+    height: 40px;
+    width: 600px;
+    background-color: whitesmoke;
+    color: goldenrod;
+}
+
+.message { 
+    width: 600px;
+    height: 200px;
+    text-align: top;
+}
+
+.button {
+    width: 80px;
+    background-color: #4aaaa5;
+    color: white;
+    margin-right: 100%;
+    
+}
+
+a {
+    color: #777777;
 }
