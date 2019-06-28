@@ -1,0 +1,35 @@
+body {
+    background-image: url(https://scontent.ffcm1-2.fna.fbcdn.net/v/t1.0-9/65415923_2407947435950824_3966755133714333696_n.jpg?_nc_cat=101&_nc_oc=AQnFmFq1yNx1smQobkYL5eIhjp6vcsB-mKDpdjRMMaAKdKQCQr3V4uHGxjthpsarZtU&_nc_ht=scontent.ffcm1-2.fna&oh=e19b3538dec53a7f3f332a54ad822b0c&oe=5DBF1BF5);
+    background-size: 30%;
+    background-repeat: repeat;
+    background-position-x: -100px;
+    background-color: darkgray;
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    background-color: cornflowerblue;
+    width: 240px;
+    margin-left: 11.9%;
+    transform: translateY(50px);
+}
+
+nav {
+    margin-left: 56.2%;
+}
+
+.container {
+    font-family: 'Dosis', sans-serif;
+    background-color: slategrey;
+    width: 960px;
+    margin-left: 180px;
+    transform: translateY(370px)
+}
+
+a:hover {
+    color: goldenrod;
+}
+
+a:active {
+    color: red;
+}
